@@ -1,0 +1,2 @@
+include ':gdxsupport'
+include 'desktop', 'android', 'ios', 'html', 'core'
